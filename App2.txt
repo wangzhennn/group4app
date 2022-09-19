@@ -1,0 +1,3 @@
+data['pets'] = data['pets'].replace({'likes cats and likes cats':'no pets','likes cats':'no pets','likes dogs and dislikes cats':'no pets','likes dogs': 'no pets','dislikes dogs and dislikes cats': 'no pets','likes dogs': 'no pets','dislikes cats': 'no pets','dislikes dogs': 'no pets', 'dislikes dogs and likes cats':'no pets'})
+
+data['pets'] = data['pets'].replace({'likes cats and likes cats':'no pets','likes cats':'no pets','likes dogs and dislikes cats':'no pets','likes dogs': 'no pets','dislikes dogs and dislikes cats': 'no pets','likes dogs': 'no pets','dislikes cats': 'no pets','dislikes dogs': 'no pets', 'dislikes dogs and likes cats':'no pets'})
