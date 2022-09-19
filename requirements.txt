@@ -1,0 +1,7 @@
+numpy
+pillow
+matplotlib
+wordcloud
+sentence_transformers
+folium
+vega_datasets
